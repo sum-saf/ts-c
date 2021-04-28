@@ -8,14 +8,14 @@ body {
 }
 
 h1 {
-	color: #000000;
+	color: #ffffff;
 	font-size: 6em;
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
 p, ul {
 	font-family: 'Roboto', sans-serif;
-	color: #000000;
+	color:  #ffffff;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
